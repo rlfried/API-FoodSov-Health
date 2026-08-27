@@ -1,6 +1,6 @@
-# Traditional Foods & Health — Aleutian Pribilof Islands
+# Traditional Food Sovereignty & Wellbeing — Aleutian Pribilof Islands
 
-Public project website for the Traditional Foods & Health COBRE pilot project,
+Public project website for the Traditional Food Sovereignty & Wellbeing COBRE pilot project,
 a community-based approach to strengthening food sovereignty and wellbeing
 across the Aleutian Pribilof Islands region of Alaska.
 
